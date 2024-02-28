@@ -1,2 +1,2 @@
 # git_demo
-for learning Git &amp; GitHub
+for learning Git  GitHub
